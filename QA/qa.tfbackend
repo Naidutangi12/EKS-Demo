@@ -1,0 +1,2 @@
+bucket = "terraform-qa-state-bucket-vamsi"
+key = "eks/terraform.tfstate"
